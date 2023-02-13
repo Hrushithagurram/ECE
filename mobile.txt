@@ -3,3 +3,6 @@ version : 11.0
 Ram : 6 gb
 
 version : 12.0
+
+hello
+how r u
