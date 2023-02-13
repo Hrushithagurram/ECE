@@ -1,0 +1,3 @@
+name : hrushi
+version : 11.0
+Ram : 6 gb
